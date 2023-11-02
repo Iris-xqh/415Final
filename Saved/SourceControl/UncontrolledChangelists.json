@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Loopy_BS.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Eve_By_J_Gonzales_Anim_Take_001.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Eve_By_J_Gonzales_Skeleton.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/TopDown/Input/Actions/IA_move.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Eve_By_J_Gonzales.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/SpacePirate_M.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/SpacePirate_diffuse.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/SpacePirate_specular.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/SpacePirate_normal.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Eve_By_J_Gonzales_PhysicsAsset.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Eve_By_J_Gonzales_Anim_mixamo_com.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Run_Take_001.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Run_mixamo_com.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Strafe_left_mixamo_com.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Walk_Take_001.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Walk_mixamo_com.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Strafe_left_Take_001.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Idle_Take_001.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Idle_mixamo_com.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Strafe_right_mixamo_com.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Run_Backward_Take_001.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Run_Backward_mixamo_com.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Strafe_right_Take_001.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Loopy_AnimBP.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Run__1__mixamo_com.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Loopy/Pistol_Run__1__Take_001.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Gun/Bullet.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Gun/blinn1SG.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Gun/blinn2SG.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Gun/pistol.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Gun/GunBlack.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Gun/Gun_BP.uasset",
+				"C:/Users/qinhanx2/Documents/Unreal Projects/LastBreath/Content/Gun/Bullet_BP.uasset"
+			]
+		}
+	]
+}
