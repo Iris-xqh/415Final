@@ -68,7 +68,6 @@
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/PL/MYXGV0RBWT3ZBX00KVP1IE.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/0Q/PCTRG3IPKMZT4VZ4N1RFR2.uasset",
-				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/WA/LOBVMGCQKEL6AW9HBH7MJK.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/TopDown/Blueprints/PlayerHud_WB.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/Items/AmmoPickup_BP.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/Zombie/zombie.uasset",
@@ -93,6 +92,12 @@
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/LT/IWUBZJZQDJD713DTLR9SZ7.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/AC/IFLTOFAEQDOCXWKABGH7QC.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/TopDown/Blueprints/ZombieSpawnPoint.uasset",
+				"C:/Users/qinhanx2/Documents/xia/415Final/Content/TopDown/Blueprints/AmmoSpawnPoint.uasset",
+				"C:/Users/qinhanx2/Documents/xia/415Final/Content/TopDown/Blueprints/HealthSpawnPoint.uasset",
+				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/MC/23G5VA54UNHPFI6GRL9HMW.uasset",
+				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/2K/VKPDIY3U4NC9F4JXCG9XXW.uasset",
+				"C:/Users/qinhanx2/Documents/xia/415Final/Content/TopDown/Blueprints/WaveTimer_WB.uasset",
+				"C:/Users/qinhanx2/Documents/xia/415Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/WA/LOBVMGCQKEL6AW9HBH7MJK.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
 				"C:/Users/qinhanx2/Documents/xia/415Final/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset"
 			]
